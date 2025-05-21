@@ -14,7 +14,7 @@ contributions are much appreciated!
 | ---------------------- | ----------- | ------------- | ------------------------------------------ | ------------------------------------------- |
 | Namespaces             | NS          | Alex Scheel   | [@cipherboy](https://github.com/cipherboy) | openbao-dev-wg-namespaces@lists.lfedge.org  |
 | Horizontal Scalability | Scalability | Alex Scheel   | [@cipherboy](https://github.com/cipherboy) | openbao-dev-wg-scalability@lists.lfedge.org |
-| PKCS#11                | n/a         | Alex Scheel   | [@cipherboy](https://github.com/cipherboy) | n/a                                         |
+| PKCS#11                | n/a         | Alex Scheel   | [@cipherboy](https://github.com/cipherboy) | openbao-dev-wg-pkcs11@lists.lfedge.org      |
 | Supply Chain Security  | Supply      | Michael Hofer | [@karras](https://github.com/karras)       | openbao-dev-wg-supply@lists.lfedge.org      |
 
 The subgroups use dedicated and private mailing lists. A more standardized
