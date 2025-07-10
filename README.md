@@ -21,3 +21,12 @@ contributions are much appreciated!
 The subgroups use dedicated and private mailing lists. A more standardized
 collaboration approach (e.g. meeting minutes or issue management) is currently
 under revision.
+
+## Other Working Groups
+
+Additional and separate working groups, which are not directly part of the Dev
+WG, are also tracked below for the time being:
+
+| Group     | Alias | Lead        | GitHub                                     | Moderated ML                           |
+| --------- | ----- | ----------- | ------------------------------------------ | -------------------------------------- |
+| Marketing | n/a   | Alex Scheel | [@cipherboy](https://github.com/cipherboy) | openbao-marketing-wg@lists.openssf.org |
