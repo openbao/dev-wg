@@ -5,7 +5,7 @@ development topics surrounding OpenBao. Its purpose and governance is outlined
 in the dedicated [charter](./CHARTER.md).
 
 - Lead: Alex Scheel ([@cipherboy](https://github.com/cipherboy))
-- Mailing list: [openbao-dev-wg@lists.openssf.org](https://lists.lfedge.org/g/openbao-dev-wg)
+- Mailing list: [openbao-dev-wg@lists.openssf.org](https://lists.openssf.org/g/openbao-dev-wg)
 - Zulip: https://linuxfoundation.zulipchat.com/#narrow/channel/574533-openssf-openbao-wg
 
 ## Subgroups
